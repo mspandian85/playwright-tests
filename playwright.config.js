@@ -36,7 +36,7 @@ export default defineConfig({
     trace: 'on-first-retry',
 
     /* Open browser */
-    headless: false,
+    headless: true,
   },
 
   /* Browser projects */
