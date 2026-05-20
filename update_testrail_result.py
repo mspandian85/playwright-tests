@@ -24,8 +24,8 @@ password = "Y3Gd2GUFrNKfu9ykmZaA-AAu2wMvbFpXNhskSkytq"
 # TestRail Details
 # -----------------------------------
 
-run_id = 117
-case_id = 1816
+run_id = 118
+case_id = 1835
 
 # -----------------------------------
 # Read Playwright JSON Result

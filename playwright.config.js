@@ -48,11 +48,4 @@ export default defineConfig({
       },
     },
   ],
-  const isCI = !!process.env.CI;
-
-module.exports = {
-  use: {
-    headless: isCI ? true : false,
-  },
-};
 });
